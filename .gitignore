@@ -1,2 +1,5 @@
 coverage/
 credentials.json
+input.txt
+.DS_Store
+token.pickle
